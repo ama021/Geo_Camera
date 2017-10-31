@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Geo_Camera</string>
+    <string name="recent_pictures">Recent Pictures</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="map">MAP</string>
+    <string name="title_activity_test">Map</string>
+</resources>
